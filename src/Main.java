@@ -7,5 +7,6 @@ public class Main {
             System.out.println(i);
         }
         System.out.println("2-оой каммит");
+        System.out.println("asdasdasd");
     }
 }
