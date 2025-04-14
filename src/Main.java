@@ -8,5 +8,6 @@ public class Main {
         }
         System.out.println("2-оой каммит");
         System.out.println("asdasdasd");
+        System.out.println("1 коммит для fix");
     }
 }
