@@ -7,5 +7,6 @@ public class Main {
             System.out.println(i);
         }
         System.out.println("FIXXXX");
+        System.out.println("Разветлвление от newBranch");
     }
 }
